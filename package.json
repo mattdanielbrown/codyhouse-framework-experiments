@@ -35,7 +35,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-sass-glob": "^1.1.0",
     "gulp-uglify": "^3.0.2",
-    "postcss-calc": "^7.0.1",
+    "postcss-calc": "^10.1.1",
     "postcss-css-variables": "git+https://github.com/CodyHouse/postcss-css-variables"
   },
   "homepage": "https://codyhouse.co",
